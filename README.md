@@ -3,10 +3,10 @@
 # Pentrestion
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Exploit+Developer;Reverse+Engineer;AI+Red+Teaming;Offensive+Security" alt="Pentrestion profile banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Exploit+Developer;Reverse+Engineer;AI+Red+Team+Builder;Security+Automation" alt="Typing SVG" />
 </p>
 
-> Cybersecurity Researcher • Exploit Development • Reverse Engineering • AI Security
+> Cybersecurity Researcher • Exploit Developer • Reverse Engineer • AI Red Team Builder
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
