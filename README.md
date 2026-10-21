@@ -3,10 +3,10 @@
 # Pentrestion
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Exploit+Development;Reverse+Engineering;AI+Red+Teaming;Offensive+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Exploit+Developer;Reverse+Engineer;AI+Red+Teaming;Offensive+Security" alt="Pentrestion profile banner" />
 </p>
 
-> Cybersecurity Researcher | Exploit Development | Reverse Engineering | AI Security
+> Cybersecurity Researcher • Exploit Development • Reverse Engineering • AI Security
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 </p>
 
-I build, break, analyze, and automate systems with a focus on cybersecurity, exploit development, reverse engineering, and AI security research.
+I research systems, identify weaknesses, and build tooling to understand, automate, and challenge security boundaries.
 
-I’m especially interested in offensive tooling, red teaming workflows, autonomous security agents, and understanding how systems fail under adversarial conditions.
+My work focuses on vulnerability research, exploit development, reverse engineering, red teaming, and AI security workflows — especially where offensive security and automation intersect.
 
-## Core Focus
+## Current Focus
 
 - Exploit Development
 - Reverse Engineering
@@ -30,36 +30,47 @@ I’m especially interested in offensive tooling, red teaming workflows, autonom
 - Penetration Testing
 - Offensive Security
 - AI Red Teaming
+- LLM Security
 - Security Automation
-- Tooling & Research
+- Autonomous Security Tooling
 
-## Tools & Environments
+## Core Stack
 
-- Linux / Kali
-- Bash / PowerShell
-- Python / Rust / Go
-- Nmap / networking tooling
-- Reverse engineering workflows
-- Security automation and custom tooling
+- Python
+- Rust
+- Go
+- PowerShell
+- Bash
+- JavaScript
+- HTML
+- Kali Linux
+- Security tooling and custom automation
 
-## Featured Projects
+## Featured Research & Projects
 
-- [capybara-nexus-v2](https://github.com/pentrestion/capybara-nexus-v2) — AI red teaming and autonomous security auditing focused on Gemini CLI workflows and exploit chaining.
-- [redmythos-claw](https://github.com/pentrestion/redmythos-claw) — Autonomous AI agent framework for Termux and security research automation.
-- [mythos-core-suite](https://github.com/pentrestion/mythos-core-suite) — Security tooling and concepts for custom skills, vulnerability discovery, and misconfiguration analysis.
-- [nocobase-cve-2026-52887](https://github.com/pentrestion/nocobase-cve-2026-52887) — Security research and exploitation notes for a documented CVE.
+- [capybara-nexus-v2](https://github.com/pentrestion/capybara-nexus-v2) — AI-driven red teaming and autonomous security auditing focused on exploit chaining and Gemini CLI workflows.
+- [redmythos-claw](https://github.com/pentrestion/redmythos-claw) — Autonomous AI agent framework for security research, automation, and Termux-based offensive tooling.
+- [mythos-core-suite](https://github.com/pentrestion/mythos-core-suite) — Security concepts and custom tooling for vulnerability discovery, misconfiguration analysis, and research workflows.
+- [nocobase-cve-2026-52887](https://github.com/pentrestion/nocobase-cve-2026-52887) — Security research notes and reproduction-focused documentation for a public CVE investigation.
 
-## What I’m About
+## What I’m Building
 
-Understanding systems deeply, identifying weaknesses early, and building tools to expose, automate, and analyze them.
+- Security tooling for offensive research
+- AI-powered and autonomous red team workflows
+- Reverse engineering aids and exploit-oriented utilities
+- Security automation for detection, validation, and workflow analysis
 
-## Open to
+## Open To
 
-- Research collaborations
-- Security tooling discussions
-- AI security / red teaming projects
-- Reverse engineering and exploit research discussions
-- Offensive security automation ideas
+- Security research collaboration
+- AI security and red teaming discussions
+- Reverse engineering and exploit research conversations
+- Offensive security tooling partnerships
+- Security automation and experimentation
+
+## Motto
+
+Understanding systems deeply, identifying weaknesses early, and building tools to expose and analyze them.
 
 ## GitHub Stats
 
