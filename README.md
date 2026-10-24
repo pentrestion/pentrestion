@@ -82,3 +82,6 @@ Understanding systems deeply, identifying weaknesses early, and building tools t
 <!--
 **pentrestion/pentrestion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+> [!WARNING]
+> **This identity is linked to a decentralized anonymous network.**
